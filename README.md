@@ -4,11 +4,12 @@
 
 I combine financial and business analytics experience with software development to build practical solutions that improve reporting, automate repetitive processes, and turn complex data into actionable insights.
 
-My work focuses on **Python, SQL, JavaScript, TypeScript, React, Power BI, and AI-powered automation**. I enjoy developing interactive dashboards, building analytical tools, and creating solutions that make business processes more efficient.
+My work focuses on **Python, SQL, JavaScript, TypeScript, React, financial analytics, data visualization, and AI-powered automation**. I build interactive dashboards, financial modeling tools, and automated workflows using technologies such as **Power BI, Recharts, Vite, and GitHub Actions** to transform complex data into actionable insights.
 
 ## Featured Projects
 
 ### RCM Intelligence
+
 **Interactive Revenue Cycle Management Analytics Dashboard**
 
 An interactive executive dashboard demonstrating financial performance analysis, revenue reconciliation, denial trends, payer comparisons, and transparent metric definitions.
@@ -24,6 +25,7 @@ An interactive executive dashboard demonstrating financial performance analysis,
 ---
 
 ### CommissionOS
+
 **Interactive Sales Compensation Analytics & Commission Simulation Dashboard**
 
 An interactive application demonstrating sales compensation analytics, revenue integrity analysis, automated commission calculations, and compensation scenario modeling.
@@ -51,12 +53,13 @@ The dashboard includes five analytical modules: Executive Overview, Commission E
 
 | Area | Technologies and Capabilities |
 |---|---|
-| Programming | Python, JavaScript, TypeScript, SQL |
+| Programming | Python, SQL, JavaScript, TypeScript |
 | Front-End Development | React, HTML, CSS, Vite |
-| Analytics & Visualization | Power BI, Tableau, Excel, Recharts |
-| Automation | Python scripting, workflow automation, AI-assisted development |
-| Data Analysis | Financial modeling, compensation analytics, data validation, reconciliation, KPI reporting |
-| Development Tools | Git, GitHub, GitHub Actions, VS Code |
+| Data Analytics & Visualization | Power BI, Tableau, Excel, Recharts, Interactive Dashboards |
+| Financial Analytics & Modeling | Financial Modeling, Sales Compensation, Commission Calculations, Scenario Analysis, KPI Reporting |
+| Data Processing & Validation | Data Transformation, Synthetic Data Generation, Data Reconciliation, Data Quality Analysis |
+| Automation & AI | Python Scripting, Workflow Automation, AI-Assisted Development, Process Optimization |
+| Development & Deployment | Git, GitHub, GitHub Actions, GitHub Pages, VS Code, CI/CD |
 
 ## What I Enjoy Building
 
