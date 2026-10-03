@@ -4,7 +4,7 @@
 
 I combine financial and business analytics experience with software development to build practical solutions that improve reporting, automate repetitive processes, and turn complex data into actionable insights.
 
-My work focuses on **Python, SQL, JavaScript, TypeScript, React, financial analytics, data visualization, and AI-powered automation**. I build interactive dashboards, financial modeling tools, and automated workflows using technologies such as **Power BI, Recharts, Vite, and GitHub Actions**.
+My work focuses on **FP&A, Python, SQL, JavaScript, TypeScript, React, financial analytics, data visualization, and AI-powered automation**. I build interactive dashboards, financial modeling tools, and automated workflows using technologies such as **Power BI, Recharts, Vite, and GitHub Actions**.
 
 ---
 
