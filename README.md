@@ -1,6 +1,6 @@
 # Hi, I'm Nicolas Cuervo 😁
 
-### Full-Stack Developer | Financial & Data Analytics | AI & Automation
+### FP&A | Full-Stack Developer | Financial & Data Analytics | AI & Automation
 
 I combine financial and business analytics experience with software development to build practical solutions that improve reporting, automate repetitive processes, and turn complex data into actionable insights.
 
